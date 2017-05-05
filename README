@@ -1,0 +1,4 @@
+To compile, you need g++, opengl and freeglut.
+Use the following command to compile:
+
+g++ *.cpp -std=c++11 -lfreeglut -lopengl32 -lglu32
